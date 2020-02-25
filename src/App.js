@@ -4,6 +4,9 @@ import './App.css';
 function App() {
 	return (
 		<div className="App">
+			<a href="/" className="backtoconventus">
+				&#8249; Conventus
+			</a>
 			<div className="sidebar_wrapper">
 				<div className="sidebar noselect">
 					<ul>
